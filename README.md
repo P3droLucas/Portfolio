@@ -1,7 +1,7 @@
 # Portfolio
  ## Meu portfolio! 
   
-  ###Este é um projeto em que o principal objetivo é mostrar minhas qualificações e projetos realizados como estudante. 
+  ###Este é um projeto em que o principal objetivo é mostrar minhas qualificações e projetos realizados como estudante, através de uma página web. 
 
 ###As tecnologias utilizadas foram:
 Stack |	Versão
